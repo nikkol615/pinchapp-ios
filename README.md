@@ -44,6 +44,6 @@ pinchapp-ios/
 
 
 ### Donations (Пожертования)
-**BSC (BEP20)** - 0xFdE31E33cCe38b569AB3C044039216805a48D827
-**TRON** - TBBEjihwHj99pcx8HGzcmbwakqQmaPe2Dd
-**SOL** - EE7cC6wzoqZb1pRHfEzRwV3rbLQzTCXRTs6eTpNs6EMp
+- **BSC (BEP20)** - 0xFdE31E33cCe38b569AB3C044039216805a48D827
+- **TRON** - TBBEjihwHj99pcx8HGzcmbwakqQmaPe2Dd
+- **SOL** - EE7cC6wzoqZb1pRHfEzRwV3rbLQzTCXRTs6eTpNs6EMp
